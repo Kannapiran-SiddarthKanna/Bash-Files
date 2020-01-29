@@ -21,5 +21,3 @@ echo $2 is not a regular file
 		then	
 		echo file $2 is not in directory $1
 fi
-
-
